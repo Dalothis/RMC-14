@@ -68,20 +68,20 @@ rmc-new-to-job-dcc = As a Dropship Crew Chief, your job is to assist the pilots 
 
 rmc-new-to-job-doctor = As a Doctor, you are tasked with providing specialized medical supplies and advanced care to the company.
 
-											 Your most important jobs are the production of advanced medicine in the chemistry labs, and the conducting of surgical procedures on evacuated marines in the operating rooms. You should already be familiar with the former, and as a doctor, now you have the skillset to properly perform the latter!
+                                             Your most important jobs are the production of advanced medicine in the chemistry labs, and the conducting of surgical procedures on evacuated marines in the operating rooms. You should already be familiar with the former, and as a doctor, now you have the skillset to properly perform the latter!
 
-											 Your auxiliary duties involve keeping requisitions supplied with medicine, tending to the medical needs of shipside personnel, teaching junior nurses, field deployments to the FOB, and assorted menial labor related to the medbay, such as cadaver transport and mortuary duties.
+                                             Your auxiliary duties involve keeping requisitions supplied with medicine, tending to the medical needs of shipside personnel, teaching junior nurses, field deployments to the FOB, and assorted menial labor related to the medbay, such as cadaver transport and mortuary duties.
 
-											 Make sure to pay attention to your radio, for it could mean the difference between life and death, be it a dropship arriving with an infested marine, a critical medicine shortage in requisitions, or even combat on deck.
-											 
+                                             Make sure to pay attention to your radio, for it could mean the difference between life and death, be it a dropship arriving with an infested marine, a critical medicine shortage in requisitions, or even combat on deck.
+
 rmc-new-to-job-cmo = As the Chief Medical Officer of your ship, your job is to provide support to all medical professionals in or outside of the Area of Operations in general, and to manage the shipside medical staff in particular; all the while liaising with other command staff.
 
-											 As the highest ranking medical professional on the ship, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up, you will find your officer’s gear there.
+                                             As the highest ranking medical professional on the ship, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up, you will find your officer’s gear there.
 
-											 Your primary duties involve managing the medical bay and it’s staff, as well as being the foremost teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses.
+                                             Your primary duties involve managing the medical bay and it’s staff, as well as being the foremost teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses.
 
-											 Your secondary duties involve communicating with other departments, mainly requisitions, providing specialized services such as psychological evaluations, and helping out with regular medical tasks, should staff numbers be lacking.
+                                             Your secondary duties involve communicating with other departments, mainly requisitions, providing specialized services such as psychological evaluations, and helping out with regular medical tasks, should staff numbers be lacking.
 
-											 You may rarely be required to perform even more niche duties, like providing overwatch to a marine squad, or assisting during executions.
+                                             You may rarely be required to perform even more niche duties, like providing overwatch to a marine squad, or assisting during executions.
 
-											 Make sure to familiarize yourself with the Standard Operating Procedures and Marine Law, especially parts pertaining to the medical bay. One noteworthy point is your right to grant access privileges to medical areas, allowing doctors to access the medical fabricator or containment chambers located in the research labs, for example.
+                                             Make sure to familiarize yourself with the Standard Operating Procedures and Marine Law, especially parts pertaining to the medical bay. One noteworthy point is your right to grant access privileges to medical areas, allowing doctors to access the medical fabricator or containment chambers located in the research labs, for example.
