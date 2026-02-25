@@ -74,14 +74,15 @@ rmc-new-to-job-doctor = As a Doctor, you are tasked with providing specialized m
 
                                              Make sure to pay attention to your radio, for it could mean the difference between life and death, be it a dropship arriving with an infested marine, a critical medicine shortage in requisitions, or even combat on deck.
 
-rmc-new-to-job-cmo = As the Chief Medical Officer of your ship, your job is to provide support to all medical professionals in or outside of the Area of Operations in general, and to manage the shipside medical staff in particular; all the while liaising with other command staff.
+rmc-new-to-job-cmo = As the Chief Medical Officer of your ship, your job is to provide support to all medical professionals in or outside of the Area of Operations, and to manage your shipside medical personnel; all the while liaising with other command staff.
 
-                                             As the highest ranking medical professional on the ship, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up, you will find your officer’s gear there.
+                                             As the highest ranking medical professional on the ship,you are expected to have at least intermediate knowledge of all things medical. Additionally, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up to collect your officer’s gear there.
 
-                                             Your primary duties involve managing the medical bay and it’s staff, as well as being the foremost teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses.
+                                             Your primary duties involve managing the medical bay and it’s staff to ensure tasks are properly prioritized, as well as being the primary teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses.
 
-                                             Your secondary duties involve communicating with other departments, mainly requisitions, providing specialized services such as psychological evaluations, and helping out with regular medical tasks, should staff numbers be lacking.
+                                             Your secondary tasks involve filling gaps in the chem lab or operating room should your subordinates become overwhelmed due to excessive demand, or manpower shortages, communicating with other departments, and providing specialized services, such as psychological evaluations.
 
-                                             You may rarely be required to perform even more niche duties, like providing overwatch to a marine squad, or assisting during executions.
+                                             As a member of the command staff, your skillset is significantly wider than most, and this expertise can occasionally be called upon. In particular, you can provide overwatch to squads, process intelligence, use most policing tools, use laser designators rapidly, and issue inspiring commands. Note that you are still not trained in firearms use.
 
                                              Make sure to familiarize yourself with the Standard Operating Procedures and Marine Law, especially parts pertaining to the medical bay. One noteworthy point is your right to grant access privileges to medical areas, allowing doctors to access the medical fabricator or containment chambers located in the research labs, for example.
+
