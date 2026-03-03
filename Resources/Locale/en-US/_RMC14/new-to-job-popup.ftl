@@ -76,9 +76,9 @@ rmc-new-to-job-doctor = As a Doctor, you are tasked with providing specialized m
 
 rmc-new-to-job-cmo = As the Chief Medical Officer of your ship, your job is to provide support to all medical professionals in or outside of the Area of Operations, and to manage your shipside medical personnel; all the while liaising with other command staff.
 
-                                             As the highest ranking medical professional on the ship,you are expected to have at least intermediate knowledge of all things medical. Additionally, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up to collect your officer’s gear there.
+                                             As the highest-ranking medical professional on the ship, you are expected to have at least intermediate knowledge of all things medical. Additionally, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up to collect your officer’s gear there.
 
-                                             Your primary duties involve managing the medical bay and it’s staff to ensure tasks are properly prioritized, as well as being the primary teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses.
+                                             Your primary duties involve managing the medical bay and its staff to ensure tasks are properly prioritized, as well as being the primary teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses.
 
                                              Your secondary tasks involve filling gaps in the chem lab or operating room should your subordinates become overwhelmed due to excessive demand, or manpower shortages, communicating with other departments, and providing specialized services, such as psychological evaluations.
 
