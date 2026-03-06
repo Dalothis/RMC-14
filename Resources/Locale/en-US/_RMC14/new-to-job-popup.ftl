@@ -105,17 +105,17 @@ rmc-new-to-job-fireteam-leader = As a fireteam leader, your role is possibly the
 
                                              Your room is found at the very end of the preparations hall, containing many advanced support tools.
 
-                                             Your primary duties are communication and small unit leadership (if you are assigned a team), aided by your standard issue radiotelephone backpack. Relay and execute your squad leader’s directives, pass on supply requests to requisitions, and should the squad leader be lost, step up as acting squad leader and get your marines home.
+                                             Your primary duty is communication and small unit leadership (if you are assigned a team), aided by your standard issue radiotelephone backpack. Relay and execute your squad leader’s directives, pass on supply requests to requisitions, and should the squad leader be lost, step up as acting squad leader and get your marines home.
 
-                                             You are extensively trained as a Joint Terminal Attack Controller (JTAC), speeding up your laser designator use massively. Use this to mark targets for Close Air Support (CAS), or to obtain coordinates for supply drops (send these to your overwatch officer, usually by phone), mortar support, or even an orbital strike.
+                                             You are extensively trained as a Joint Terminal Attack Controller (JTAC), speeding up your laser designator use massively. Use this to mark targets for Close Air Support (CAS), or to obtain coordinates for supply drops (to be transmitted to squad overwatch, preferrably by phone), mortar support, or even an orbital strike.
 
-                                             Additionally, your engineering and construction skills rival those of a Combat Technician’s permitting you to do everything they can, only marginally slower. It is recommended that you carry tools with you for this reason.
+                                             Additionally, your engineering and construction skills rival those of a Combat Technician's; permitting you to do everything they can, only marginally slower. It is recommended that you carry tools with you for this reason.
 
                                              Help maintain cohesion, ensure everyone gets the supplies they need, and leverage the heaviest of UNMC armaments. Bring the hammer down, Lance Corporal.
 
 rmc-new-to-job-smart-gun-operator = As a Smart Gun Operator your job is to provide a robust base of fire and occasionally information to your squad by making use of your advanced equipment and training.
 
-                                             You will find all your specialized gear in the preparations room assigned to you, look for the appropriate marking on the floor of the preparations hall. Should you require more ammunition, some can be found in the ColMarTech automated munition squad vendor within the general squad preparations room; or at requisitions, but keep in mind that drums are somewhat expensive to resupply.
+                                             You will find all your specialized gear in the preparations room assigned to you, look for the appropriate marking on the floor of the preparations hall. Should you require more ammunition, some can be found in the ColMarTech automated munition squad vendor within the general squad preparations room; or at requisitions, but keep in mind that drums are somewhat expensive to procure.
 
                                              A quick summary for the parts of your issued ML66A Smart Gun System:
 
@@ -133,7 +133,7 @@ rmc-new-to-job-squad-leader = As the Squad Leader, your job is to execute the pl
 
                                              Your equipment racks are found in the room closest to the cryosleep bay; note that a number of your equipment options are well suited to equipping your squaddies with otherwise limited equipment on the cheap, but you are not under obligation to do so.
 
-                                             Your primary task is to direct and organize your squad. The squad tracker interface (Accessible from the alert on the right edge of your HUD) is especially helpful in this regard, allowing you to assign fireteams and track other leaders when needed. Delegate tasks to your squaddies and fireteams, or lead by example to inspire your men. (For practical advice on leading a squad, refer to the Squad Leader guidebook entry)
+                                             Your primary task is to direct and organize your squad. The squad tracker interface (Accessible from the alert on the right edge of your screen) is especially helpful in this regard, allowing you to assign fireteams and track other leaders when needed. Delegate tasks to your squaddies and fireteams, or lead by example to inspire your men. (For practical advice on leading a squad, refer to the Squad Leader guidebook entry)
 
                                              Your skillset is the widest, but also shallowest in your squad, allowing you to fill in for most basic tasks. You are also trained in leadership, allowing you to give motivating orders to marines close to you.
 
@@ -143,8 +143,8 @@ rmc-new-to-job-squad-leader = As the Squad Leader, your job is to execute the pl
 
 rmc-new-to-job-weapons-specialist = As a weapon specialist, your job is to bring armaments of unparalleled destructive power to the field, and act as a force multiplier to the squad.
 
-                                             You will find your gear in the room assigned to you, the second down the preparations hall. You have a multitude of special weapons to choose from, but due to their immense cost the company can only supply one of each. You can choose between Demolitionist (Anti-Tank), Grenadier, Pyro, Scout, Sniper, and Anti-Materiel Rifle kits.  Some choices come with a support kit to be given to a rifleman that allows them to help you become even more lethal. (For further information on specialist equipment, please consult the „Specialists” guidebook entry.)
+                                             You will find your gear in your assigned room, located next to your squad lead's. You have a multitude of special weapons to choose from, but due to their immense cost the company is only supplied one of each, choose wisely. You may choose between Demolitionist (Anti-Tank), Grenadier, Pyro, Scout, Sniper, and Anti-Materiel Rifle kits.  Some choices come with a support kit to be given to a rifleman that allows them to help you become even more lethal. (For further information on specialist equipment, please consult the „Specialists” guidebook entry.)
 
-                                             Due to your unique ordnance, ammunition conservation and communication with requisitions is essential. Similarly, because of your almost irreplaceable nature, heightened situational awareness and careful positioning is vital. 
+                                             Due to your unique ordnance, ammunition conservation and communication with requisitions is essential to stay in the fight. Additionally, heightened situational awareness and careful positioning is vital because of your almost irreplaceable nature. 
 
-                                             Hostiles will do everything in their power to remove you from the field. Turn the tables on them and help your squad achieve victory. Good hunting, Lance Corporal.
+                                             Hostile forces will do everything in their power to remove you from the field. Turn the tables on them and help your squad achieve victory. Good hunting, Lance Corporal.
