@@ -57,20 +57,22 @@
 
 - type: entity
   id: RMCRandomHumanoidSPPRifleman
-  name: spp pve rifle
-  suffix: Spawner, Player
+  name: SPP Rifleman
+  suffix: Spawner, Player, PVE
   components:
   - type: Sprite
     sprite: _RMC14/Markers/landmarks.rsi
     state: spp_spawn
   - type: RandomHumanoidSpawner
-    settings: RMCSPPRiflemanPVETest
+    settings: RMCSPPRiflemanPVE
     
 - type: randomHumanoidSettings
   parent: RMCEventHumanoid
-  id: RMCSPPRiflemanPVETest
+  id: RMCSPPRiflemanPVE
   components:
   - type: GhostRole
+    name: rmc-ghost-name-spp-rifleman-pve
+    description: rmc-job-description-spp-rifleman-pve
     reregister: false
     job: RMCSPPRiflemanPVE
     raffle:

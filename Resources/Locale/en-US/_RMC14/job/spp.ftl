@@ -19,7 +19,6 @@ rmc-job-prefix-spp-specialist = Spc
 
 rmc-ghost-name-spp-hostile-rifleman = SPP Squad Conscript (Hostile)
 rmc-ghost-name-spp-friendly-rifleman = SPP Squad Conscript (Friendly)
-rmc-ghost-name-spp-pve-rifleman = SPP Conscript
 rmc-job-name-spp-rifleman = Conscript
 rmc-job-prefix-spp-rifleman = Sol
 
