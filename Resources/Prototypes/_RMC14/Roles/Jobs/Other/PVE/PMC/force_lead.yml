@@ -68,3 +68,28 @@
 
 - type: playTimeTracker
   id: CMJobPMCForceLeadPVE
+
+- type: entity
+  id: RMCRandomHumanoidPMCForceLeader
+  name: PMC Force Leader
+  suffix: Spawner, Player, PVE
+  components:
+  - type: Sprite
+    sprite: _RMC14/Markers/landmarks.rsi
+    state: pmc_spawn
+  - type: RandomHumanoidSpawner
+    settings: RMCPMCForceLeadPVE
+    
+- type: randomHumanoidSettings
+  parent: RMCEventHumanoid
+  id: RMCPMCForceLeadPVE
+  components:
+  - type: GhostRole
+    name: rmc-job-name-pmc-pve-force-leader
+    description: rmc-job-description-pmc-pve-force-leader
+    reregister: false
+    job: CMPMCForceLeadPVE
+    raffle:
+      settings: short
+  - type: GhostRoleApplySpecial
+    squad: SquadPMC

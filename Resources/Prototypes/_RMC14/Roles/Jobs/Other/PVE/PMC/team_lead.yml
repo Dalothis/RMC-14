@@ -70,3 +70,28 @@
   icon:
     sprite: _RMC14/Interface/cm_job_icons.rsi
     state: pmc_tl
+
+- type: entity
+  id: RMCRandomHumanoidPMCTeamLeader
+  name: PMC Team Leader
+  suffix: Spawner, Player, PVE
+  components:
+  - type: Sprite
+    sprite: _RMC14/Markers/landmarks.rsi
+    state: pmc_spawn
+  - type: RandomHumanoidSpawner
+    settings: RMCPMCTeamLeadPVE
+    
+- type: randomHumanoidSettings
+  parent: RMCEventHumanoid
+  id: RMCPMCTeamLeadPVE
+  components:
+  - type: GhostRole
+    name: rmc-job-name-pmc-pve-team-leader
+    description: rmc-job-description-pmc-pve-team-leader
+    reregister: false
+    job: CMPMCTeamLeadPVE
+    raffle:
+      settings: short
+  - type: GhostRoleApplySpecial
+    squad: SquadPMC

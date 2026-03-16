@@ -60,3 +60,28 @@
 
 - type: playTimeTracker
   id: CMJobPMCOperativePVE
+
+- type: entity
+  id: RMCRandomHumanoidPMCOperator
+  name: PMC Operator
+  suffix: Spawner, Player, PVE
+  components:
+  - type: Sprite
+    sprite: _RMC14/Markers/landmarks.rsi
+    state: pmc_spawn
+  - type: RandomHumanoidSpawner
+    settings: RMCPMCOperatorPVE
+    
+- type: randomHumanoidSettings
+  parent: RMCEventHumanoid
+  id: RMCPMCOperatorPVE
+  components:
+  - type: GhostRole
+    name: rmc-ghost-name-pmc-standard
+    description: rmc-job-description-pmc-pve-standard
+    reregister: false
+    job: CMPMCOperatorPVE
+    raffle:
+      settings: short
+  - type: GhostRoleApplySpecial
+    squad: SquadPMC
