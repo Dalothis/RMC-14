@@ -54,3 +54,12 @@
 
 - type: playTimeTracker
   id: RMCJobSPPRiflemanPVE
+
+- type: entity
+  id: RMCRandomHumanoidSPPRifleman
+  name: spp pve rifle
+  suffix: Spawner, Player
+  components:
+  - type: Sprite
+    sprite: _RMC14/Markers/landmarks.rsi
+    state: spp_spawn
