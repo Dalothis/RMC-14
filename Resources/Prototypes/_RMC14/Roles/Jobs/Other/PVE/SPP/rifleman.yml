@@ -56,15 +56,16 @@
   id: RMCJobSPPRiflemanPVE
   
 - type: entity
+  parent: MarkerBase
   id: RMCRandomHumanoidSPPRiflemanPVE
   name: SPP Conscript
-  suffix: Spawner, Player
+  suffix: PVE Player
   components:
   - type: Sprite
     sprite: _RMC14/Markers/landmarks.rsi
     state: spp_spawn
   - type: RandomHumanoidSpawner
-    settings: RMCSPPRiflemanPVE
+    settings: RMCSSPRiflemanPVE
 
 
  - type: randomHumanoidSettings
