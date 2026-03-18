@@ -80,7 +80,7 @@ rmc-new-to-job-cmo = As the Chief Medical Officer of the ship, your job is to pr
 
                                              Your primary duties involve managing the medical bay and its staff to ensure tasks are properly prioritized, as well as being the primary teacher for aspiring medical professionals, though don’t be afraid to involve other willing, experienced doctors or nurses. To aid in this, a medical training dummy can be found in your office, stored in a closet on the south wall.
 
-                                             Your secondary tasks involve filling gaps in the chem lab or operating room should your subordinates become overwhelmed due to excessive demand, or manpower shortages, communicating with other departments, and providing specialized services, such as psychological evaluations.
+                                             Your secondary tasks involve filling gaps in the chem lab or operating rooms should your subordinates become overwhelmed due to excessive demand and/or manpower shortages, communicating with other departments, and providing specialized services, such as psychological evaluations.
 
                                              As a member of the command staff, your skillset is significantly wider than most, and this expertise can occasionally be called upon. In particular, you can provide overwatch to squads, process intelligence, use most policing tools, use laser designators rapidly, and issue inspiring commands. Note that you are still not trained in firearms use.
 
