@@ -82,7 +82,7 @@ rmc-new-to-job-cmo = As the Chief Medical Officer of the ship, your job is to pr
 
                                              Your secondary tasks involve filling gaps in the chem lab or operating rooms should your subordinates become overwhelmed due to excessive demand and/or manpower shortages, communicating with other departments, and providing specialized services, such as psychological evaluations.
 
-                                             As a member of the command staff, your skillset is significantly wider than most, and this expertise can occasionally be called upon. In particular, you can provide overwatch to squads, process intelligence, use most policing tools, use laser designators rapidly, and issue inspiring commands. Note that you are still not trained in firearms use.
+                                             As a member of the command staff, your skillset is significantly wider than most, and this expertise can occasionally be called upon. In particular, you can provide overwatch to squads and process intelligence if needed in an emergency, as an example. Note that you are still not trained in firearms use.
 
                                              Make sure to familiarize yourself with the Standard Operating Procedures and Marine Law, especially parts pertaining to the medical bay. One noteworthy point is your right to grant access privileges to medical areas, allowing doctors to access the medical fabricator or containment chambers located in the research labs, for example.
 
