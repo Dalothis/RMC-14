@@ -68,13 +68,13 @@ rmc-new-to-job-dcc = As a Dropship Crew Chief, your job is to assist the pilots 
 
 rmc-new-to-job-doctor = As a Doctor, you are tasked with providing specialized medical supplies and advanced care to the company.
 
-                                             Your most important jobs are the production of advanced medicine in the chemistry labs, and the conducting of surgical procedures on evacuated marines in the operating rooms. You should already be familiar with the former, and as a doctor, now you have the skillset to properly perform the latter!
+                                             Your most important jobs are the production of advanced medicine in the chemistry labs and conducting surgical procedures on evacuated marines in the operating rooms. You should already be familiar with the former, and as a doctor, now you have the skillset to properly perform the latter!
 
                                              Your auxiliary duties involve keeping requisitions supplied with medicine, tending to the medical needs of shipside personnel, teaching junior nurses, field deployments to the FOB, and assorted menial labor related to the medbay, such as cadaver transport and mortuary duties.
 
-                                             Make sure to pay attention to your radio, for it could mean the difference between life and death, be it a dropship arriving with an infested marine, a critical medicine shortage in requisitions, or even combat on deck.
+                                             Make sure to pay attention to your radio as it could mean the difference between life and death, be it a dropship arriving with an infested marine, a critical medicine shortage in requisitions, or even combat on deck.
 
-rmc-new-to-job-cmo = As the Chief Medical Officer of your ship, your job is to provide support to all medical professionals in or outside of the Area of Operations, and to manage your shipside medical personnel; all the while liaising with other command staff.
+rmc-new-to-job-cmo = As the Chief Medical Officer of the ship, your job is to provide support to all medical professionals in or outside of the Area of Operations, and to manage your shipside medical personnel; all the while liaising with other command staff.
 
                                              As the highest-ranking medical professional on the ship, you are expected to have at least intermediate knowledge of all things medical. Additionally, you are afforded your very own office, located on the upper deck; it is recommended you visit it shortly after waking up to collect your officer’s gear there.
 
