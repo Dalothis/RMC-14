@@ -123,7 +123,7 @@ rmc-new-to-job-smart-gun-operator = As a Smart Gun Operator your job is to provi
 
                                               -Head mounted sight: An eyepiece that grants complete night vision, allowing the concurrent use of binoculars unlike „common” night vision visors; providing unmatched scouting potential.
 
-                                              -Smart gun: The centrepiece of your gear, a high-tech machine gun equipped with an integral motion detector, and Identify Friend or Foe (IFF) technology, allowing you to fire from behind your teammates; note that ONLY fellow marines are protected, civilians and other third parties are not. It also has several smaller features, such as an on-demand armor piercing mode (the hotkey for switching ammo types is space), or an integrated magnetic harness. 
+                                              -Smart gun: The centrepiece of your gear, a high-tech machine gun equipped with an integral motion detector, and Identify Friend or Foe (IFF) technology, allowing you to fire from behind your teammates; note that ONLY fellow marines are protected, civilians and other third parties are not. It also has several smaller features, such as an on-demand armor piercing mode (the hotkey for switching ammo types is space by default), or an integrated magnetic harness. 
 
                                              You have also received basic Joint Terminal Attack Controller (JTAC) training, allowing you to use laser designators and rangefinders faster than the common grunt.
 
@@ -135,7 +135,7 @@ rmc-new-to-job-squad-leader = As the Squad Leader, your job is to execute the pl
 
                                              Your primary task is to direct and organize your squad. The squad tracker interface (Accessible from the alert on the right edge of your screen) is especially helpful in this regard, allowing you to assign fireteams and track other leaders when needed. Delegate tasks to your squaddies and fireteams, or lead by example to inspire your men. (For practical advice on leading a squad, refer to the Squad Leader guidebook entry)
 
-                                             Your skillset is the widest, but also shallowest in your squad, allowing you to fill in for most basic tasks. You are also trained in leadership, allowing you to give motivating orders to marines close to you.
+                                             Your skillset is the widest, but also shallowest in your squad, allowing you to fill in for most basic tasks, but perform them worse than those specially trained. You are also trained in leadership, allowing you to give motivating orders to marines close to you.
 
                                              As a de-facto command member, you are expected to know and abide by Marine Law and the Standard Operating Procedures, as well as to report, or in the worst case, detain offenders (your armor is issued with a ziptie box).
 
