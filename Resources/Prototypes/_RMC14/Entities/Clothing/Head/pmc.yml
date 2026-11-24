@@ -276,6 +276,9 @@
   - type: EyeProtection
   - type: PointLight
     color: "#c51ce4"
+  - type: CMArmor
+    bullet: 15
+    # armor_internaldamage = 20
 
 - type: entity
   parent: CMHeadCap
