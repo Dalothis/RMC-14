@@ -4,6 +4,15 @@
   id: CMShoesLaceupCommander
   name: commanding officer dress shoes
   description: Has special soles for better trampling those underneath.
+  components:
+  - type: CMArmor
+    melee: 20
+    bullet: 20
+    bio: 20
+    explosionArmor: 15
+    # armor_internaldamage = 15
+    coverage:
+    - Feet
 
 - type: entity
   abstract: true
@@ -78,6 +87,14 @@
   - type: CMHolster
   - type: CMItemSlots
   - type: UsableWhileDevoured
+  - type: CMArmor
+    melee: 20
+    bullet: 20
+    bio: 20
+    explosionArmor: 15
+    # armor_internaldamage = 15
+    coverage:
+    - Feet
 
 - type: entity
   parent: [RMCItemSlotM5Bayonet, CMBootsBlack]
@@ -192,6 +209,12 @@
   parent: CMBootsBrown
   id: RMCBootsSPP
   name: military combat boots
+  components:
+  - type: CMArmor
+    melee: 15
+    bullet: 35
+    explosionArmor: 20
+    # armor_internaldamage = 25
 
 - type: entity
   parent: [RMCItemSlotM5Bayonet, RMCBootsSPP]
@@ -219,6 +242,12 @@
   parent: CMBootsBlack
   id: RMCBootsSPPBlack
   name: military combat boots
+  components:
+  - type: CMArmor
+    melee: 15
+    bullet: 35
+    explosionArmor: 20
+    # armor_internaldamage = 25
 
 - type: entity
   parent: [RMCItemSlotM5Bayonet, RMCBootsSPPBlack]
@@ -253,6 +282,12 @@
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/jackboots.rsi
   - type: Clothing
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/jackboots.rsi
+  - type: CMArmor
+    melee: 25
+    bullet: 25
+    bio: 25
+    explosionArmor: 15
+    # armor_internaldamage = 15
 
 - type: entity
   parent: [RMCItemSlotM5Bayonet, RMCBootsPMC]
@@ -262,9 +297,12 @@
 # PMC Commando
 - type: entity
   parent: RMCBootsPMC
-  id: RMCBootsPMCCommando
+  id: RMCBootsPMCCommando # RMC14 TODO Make unaciadble
   name: PMC commando boots
   description: A pair of heavily armored, acid-resistant boots.
+  components:
+  - type: CMArmor
+    bio: 30
 
 - type: entity
   parent: [RMCItemSlotM5Bayonet, RMCBootsPMCCommando]
@@ -289,6 +327,8 @@
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/cbrn.rsi
   - type: Clothing
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/cbrn.rsi
+  - type: CMArmor
+    bio: 75
 
 - type: entity
   parent: ClothingShoesBase
@@ -314,6 +354,12 @@
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/rmc.rsi
   - type: Clothing
     sprite: _RMC14/Objects/Clothing/Shoes/Boots/rmc.rsi
+  - type: CMArmor
+    melee: 25
+    bullet: 25
+    bio: 25
+    explosionArmor: 15
+    # armor_internaldamage = 15
 
 - type: entity
   parent: [RMCItemSlotM5Bayonet, RMCBootsRoyal]
