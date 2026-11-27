@@ -9,6 +9,14 @@
     sprite: _RMC14/Objects/Clothing/Head/Hats/bureau_cap.rsi
   - type: Clothing
     sprite: _RMC14/Objects/Clothing/Head/Hats/bureau_cap.rsi
+  - type: CMArmor
+    melee: 15
+    bullet: 15
+    bio: 10
+    explosionArmor: 15
+    # armor_internaldamage = 15
+    coverage:
+    - Head
 
 # Provost
 - type: entity
